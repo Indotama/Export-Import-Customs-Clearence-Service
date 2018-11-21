@@ -1,2 +1,37 @@
-# Export-Import-Customs-Clearence-Service
-PT INDOTAMA  PARNERT  LOGISTICS EKSPOR &amp; IMPOR BEA CUKAIKEPABEANAN  Indotama Parnert Logistics menawarkan layanan Customs House Agent (CHA) yang luas. Customs Clearance adalah kedepan Indotama Parnert Logistics dengan Tim ahli yang sangat berpengalaman dan berkualitas. Dengan pengetahuan yang baik tentang Hukum Pabean Lintas Batas lokal dan Internal, IP Logistics mengambil carel kepatuhan hukum dari semua peraturan yang terlibat dalam proses bea cukai baik operasi nasional maupun internasional. Para staf lapangan dan staf kantor belakang dididik tentang kepatuhan melalui pelatihan dan seminar yang berkelanjutan. IP Logistics memiliki spesialisasi di bidang berikut:  Semua jenis izin pabean Spesialisasi dalam Clearance Tangan Kedua Bea Masuk / Clearance Tugas Konsesi Panduan dalam Klasifikasi Bea Cukai yang sesuai dan penentuan struktur Tugas Bea pengembalian bea cukai, Pengembalian RD, Kelemahan dan semua jenis pengembalian uang Izin Bea Cukai Manajemen Semua jenis kelonggaran pabean Spesialisasi dalam Proyek Clearance Tangan Kedua Import / Consessional Duty Clearance Guidance dalam Klasifikasi Bea Cukai yang sesuai dan penentuan struktur Tugas  - IMPOR JASA EKSPOR - JASA UNDERNAME - JASA CUSTOMS CLEARANCE - Layanan Kargo Laut dan Udara - Layanan Bea Cukai Ekspor &amp; Impor - Jasa Kurir Internasional - Layanan Domestik - Layanan Ekspor - Consegne / Undername - Borongan (All-In) - Transportasi Air &amp; Sea JASA EXPORT IMPORT DI INDONESIA   Perusahaan yang merupakan salah satu Perusahaan yang akan membutuhkan pertumbuhan dunia. Perusahaan yang merupakan badan usaha yang memfokuskan pada kegiatan di bidang Perdagangan Ekspor dan Impor dari berbagai negara di Dunia  Ekspor &amp; Impor Layanan Bea Cukai Kepabeanan   Kawasan Industri &amp; Pergudangan Marunda Center Kavling Blok F No.5 Jl. Marunda Makmur, Kelurahan Segara Makmur, Kecamatan Tarumajaya Bekasi 17211 Abdi Sandjaya - +62 822-6727-3772
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Indotama/Export-Import-Customs-Clearence-Service/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Indotama/Export-Import-Customs-Clearence-Service/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
